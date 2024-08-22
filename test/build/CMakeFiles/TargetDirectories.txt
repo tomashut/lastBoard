@@ -1,0 +1,4 @@
+/home/tomashut/stmProjects/lastBoard/test/build/CMakeFiles/edit_cache.dir
+/home/tomashut/stmProjects/lastBoard/test/build/CMakeFiles/rebuild_cache.dir
+/home/tomashut/stmProjects/lastBoard/test/build/_deps/googletest-build/CMakeFiles/edit_cache.dir
+/home/tomashut/stmProjects/lastBoard/test/build/_deps/googletest-build/CMakeFiles/rebuild_cache.dir

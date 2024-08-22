@@ -1,0 +1,5 @@
+/home/tomashut/stmProjects/lastBoard/CMakeFiles/lastBoard.dir
+/home/tomashut/stmProjects/lastBoard/CMakeFiles/edit_cache.dir
+/home/tomashut/stmProjects/lastBoard/CMakeFiles/rebuild_cache.dir
+/home/tomashut/stmProjects/lastBoard/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+/home/tomashut/stmProjects/lastBoard/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
